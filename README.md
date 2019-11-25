@@ -140,3 +140,8 @@ transformer-client\target\generated-sources\annotations\me\lotabout\bo
 https://lotabout.me/2017/Notes-on-Java-Annotation-Processor/
 
 https://github.com/edidada/transformer-playground
+
+1、Transformer.java 接口文件
+2、TransformerProcessor.java 继承javax.annotation.processing.AbstractProcessor
+3、resources/META-INF/services/javax.annotation.processing.Processor  SPI文件
+                        
