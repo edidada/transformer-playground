@@ -128,3 +128,15 @@ Note that the `EducationVoTransformer` is detected automatically.
     - `Map` can be transformed only if the type of the key is directly
         transformable and the value can be transformed by transformer.
 - Array and other generic types are not supported.
+
+
+
+### my
+
+transformer-client\target\generated-sources\annotations\me\lotabout\bo
+生成.java文件
+
+元编程 cpp list
+https://lotabout.me/2017/Notes-on-Java-Annotation-Processor/
+
+https://github.com/edidada/transformer-playground
