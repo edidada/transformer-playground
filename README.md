@@ -145,3 +145,4 @@ https://github.com/edidada/transformer-playground
 2、TransformerProcessor.java 继承javax.annotation.processing.AbstractProcessor
 3、resources/META-INF/services/javax.annotation.processing.Processor  SPI文件
                         
+https://stackoverflow.com/questions/36248959/bad-service-configuration-file-or-exception-thrown-while-constructing-processor
